@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Agsmods&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Agsbotsyt&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
@@ -45,7 +45,7 @@ Used Languages
 
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
-<img width="50%" src="https://gpvc.arturio.dev/Agsmods" alt="Profile views" />
+<img width="50%" src="https://telegra.ph/file/3d09642c88142b184533c.jpg" alt="Profile views" />
 
 
 
